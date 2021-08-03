@@ -10,4 +10,4 @@ Open the fille "Kaczka Spammer.
 
   **[3] Then the message to be sent.**
 
-[^Questions ---> KACZKA#1525 <-----]
+Questions ---> KACZKA#1525 <-----]
